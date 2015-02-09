@@ -1,0 +1,5 @@
+~ $ gem install jekyll
+~ $ jekyll new myblog
+~ $ cd blog
+~/blog $ jekyll serve
+# => Now browse to http://rabbitx.com:4000
